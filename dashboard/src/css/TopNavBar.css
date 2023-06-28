@@ -1,0 +1,4 @@
+.TopNavBar input:focus{
+    outline: none;
+    font-size: large;
+}
